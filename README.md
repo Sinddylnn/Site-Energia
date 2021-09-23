@@ -8,7 +8,7 @@ então para melhor visualização resolvi desenvolver esse site.
 </div>
 
 ## Techs
-Conforme desenvolvi o projeto, a tecnologia que utilizei foi:
+Conforme desenvolvi o projeto, as tecnologias que utilizei foram:
 <ul>
 <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a>: Linguagem de marcação de hipertexto;</li>
 <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>: Código utilizado para dar estilo à sua página Web.;</li>
