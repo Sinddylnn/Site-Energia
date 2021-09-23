@@ -21,3 +21,8 @@ Conforme desenvolvi o projeto, as tecnologias que utilizei foram:
 <li>Ter instalado Python na versão 3.9 (durante o desenvolvimento, comecei na versão 3.9, então não posso garantir que versões anteriores funcionem);</li>
 <li>Ter instalado um editor de código-fonte(nesse site utilizei para o desenvolvimento o "VS Code");</li>
 </ul>
+
+## Site
+<ur>
+  <li><a href="https://programa-de-energia.000webhostapp.com">Site</a> aberto;</li>
+</ur>
