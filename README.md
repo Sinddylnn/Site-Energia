@@ -12,14 +12,14 @@ Conforme desenvolvi o projeto, as tecnologias que utilizei foram:
 <ul>
 <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a>: Linguagem de marcação de hipertexto;</li>
 <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>: Código utilizado para dar estilo à sua página Web.;</li>
-<li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>: Linguagem de programação que permite a implementar itens complexos em páginas web;</li>
+<li><a href="https://www.javascript.com">JavaScript</a>: Linguagem de programação que permite a implementar itens complexos em páginas web;</li>
 <li><a href="https://www.python.org">Python</a>: Linguagem de programação de sintaxe simples;</li>
 </ul>
 
 ## Requisitos
 <ul>
 <li>Ter instalado Python na versão 3.9 (durante o desenvolvimento, comecei na versão 3.9, então não posso garantir que versões anteriores funcionem);</li>
-<li>Ter instalado um editor de código-fonte(nesse site utilizei para o desenvolvimento o "VS Code");</li>
+<li>Ter instalado um editor de código-fonte (nesse site utilizei para o desenvolvimento o <a href="https://code.visualstudio.com/download">Visual Studio Code</a>);</li>
 </ul>
 
 ## Site
